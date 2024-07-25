@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
+Projeto de um Portal de notícias desenvolvido durante as aulas de Grid no curso de Pós-Gradução em Desenvolvimento Fullstack da Rocketseat.
 </p>
 
 <p align="center">
